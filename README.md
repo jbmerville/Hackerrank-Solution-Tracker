@@ -1,4 +1,4 @@
-# Hackerrank-Web-Scrapper
+# Hackerrank Web Scrapper
 
 A Python3 script to get your code from HackerRank.com!
 
@@ -9,7 +9,7 @@ This script also let's you format each submission with informations about the ch
 
 Link it to your github and push your new solutions totally automatically everytime you complete a challenge.
 
-# What does Hackerrank-Web-Scrapper do?
+# What does Hackerrank Web Scrapper do?
 
 - Download all or your last successful submission(s) from HackerRank.com
 - Format and maintain your submissions
